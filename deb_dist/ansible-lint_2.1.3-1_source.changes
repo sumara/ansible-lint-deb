@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 20 Oct 2015 14:50:28 +0200
+Source: ansible-lint
+Binary: python-ansible-lint
+Architecture: source
+Version: 2.1.3-1
+Distribution: unstable
+Urgency: low
+Maintainer: Suraj Maranahalli <SurajKoushik.Maranahalli@hrs.de>
+Changed-By: Suraj Maranahalli <SurajKoushik.Maranahalli@hrs.de>
+Description:
+ python-ansible-lint - checks playbooks for practices and behaviour that could pote
+Changes:
+ ansible-lint (2.1.3-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.8.5
+Checksums-Sha1:
+ 148b5cf11d2e22cc195287b05cf73ff58086cafb 958 ansible-lint_2.1.3-1.dsc
+ 522e907e8084d53ec4e619aebcd82f801ea6606c 7908 ansible-lint_2.1.3.orig.tar.gz
+ bb5c46e923659b0c07d8272b23bf466767923dec 908 ansible-lint_2.1.3-1.debian.tar.xz
+Checksums-Sha256:
+ 0a44a2bdf836f89a39df2bd498dabbefc49f9ae0ebd7b4921f9e86306c2e03cb 958 ansible-lint_2.1.3-1.dsc
+ 7fe24ff73fb4efcb772484ccb40a1d15aebcf5fffaf9fe289a6ca93e41254071 7908 ansible-lint_2.1.3.orig.tar.gz
+ 0b9d0dfe3f8eec07f113b17d878e01754bb7f223dd539af6e6e3f818de7b565a 908 ansible-lint_2.1.3-1.debian.tar.xz
+Files:
+ 9a299df8f3df1fc914f66530d3eb1dc0 958 python optional ansible-lint_2.1.3-1.dsc
+ 38dae4fd115bb329b6471f4357ff4181 7908 python optional ansible-lint_2.1.3.orig.tar.gz
+ ab6533b9926323cd60437c0213d79ea7 908 python optional ansible-lint_2.1.3-1.debian.tar.xz
